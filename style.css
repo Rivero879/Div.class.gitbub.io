@@ -1,0 +1,50 @@
+.positivo1{
+    background-color:#2EFE64;
+    width: 500px;
+    height:500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.positivo2{
+    background-color:#FAFAFA;
+    width:400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px
+}
+
+.positivo3{
+    background-color:gold;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width:299px;
+    height:290px;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+
+.positivo4{
+    width:170px;
+    height:60px;
+    background-color:#2E2EFE;
+    color:green;
+    display: flex;
+    align-items: center;
+    place-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
